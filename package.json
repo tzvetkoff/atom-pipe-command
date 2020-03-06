@@ -1,0 +1,23 @@
+{
+  "name": "pipe-command",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Pipe text to external commands.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "pipe-command:pipe",
+      "pipe-command:force-pipe"
+    ]
+  },
+  "repository": "https://github.com/tzvetkoff/atom-pipe-command",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "",
+    "eslint-config-standard": ""
+  }
+}

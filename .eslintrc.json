@@ -1,0 +1,19 @@
+{
+  "env": {
+    "node": true,
+    "es6": true,
+    "atomtest": true
+  },
+  "extends": "eslint:recommended",
+  "globals": {
+    "atom": "readonly",
+    "document": "readonly",
+    "editor": "readonly"
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module"
+  },
+  "rules": {
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "pipe-command",
+          "submenu": [
+            {
+              "label": "Pipe",
+              "command": "pipe-command:pipe"
+            },
+            {
+              "label": "Force Pipe",
+              "command": "pipe-command:force-pipe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

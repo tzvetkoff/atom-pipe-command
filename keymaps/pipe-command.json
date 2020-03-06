@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-;": "pipe-command:pipe",
+    "ctrl-:": "pipe-command:force-pipe"
+  }
+}
